@@ -15,3 +15,19 @@ Este é um projeto simples criado para praticar conceitos de desenvolvimento com
 - Spring Boot
 - Maven 
 - Docker
+
+## Aprendizados
+
+Durante o desenvolvimento deste projeto, pratiquei conceitos importantes como:
+
+- Organização de um projeto backend com Spring Boot
+
+- Separação em camadas (MVC)
+
+- Uso de repositórios e entidades com JPA
+
+- Execução de projetos com Maven e Docker
+
+- Boas práticas no desenvolvimento de APIs REST
+
+Este projeto serviu como uma base para aprender e aprimorar minhas habilidades com backend em Java.
