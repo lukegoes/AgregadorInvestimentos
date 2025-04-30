@@ -15,6 +15,8 @@ Este é um projeto simples criado para praticar conceitos de desenvolvimento com
 - Spring Boot
 - Maven 
 - Docker
+- JUnit 5
+- Mockito
 
 ## Aprendizados
 
@@ -30,4 +32,8 @@ Durante o desenvolvimento deste projeto, pratiquei conceitos importantes como:
 
 - Boas práticas no desenvolvimento de APIs REST
 
-Este projeto serviu como uma base para aprender e aprimorar minhas habilidades com backend em Java.
+- Criação de testes unitários com JUnit 5 e Mockito, permitindo validar o comportamento das classes de serviço e controlador sem depender de conexões reais com banco de dados ou a web
+
+- Uso de mocks para simular dependências, garantindo testes mais rápidos, confiáveis e isolados
+
+Este projeto serviu como uma base para aprender e aprimorar minhas habilidades com backend em Java, incluindo a importância dos testes automatizados para garantir a qualidade e estabilidade do sistema.
